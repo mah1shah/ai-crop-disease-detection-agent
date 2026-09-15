@@ -9,7 +9,7 @@ export default defineConfig([
   {
     files: ['**/*.{js,jsx}'],
     extends: [
-      js.configs.recommended,
+      js.configs.recomended,
       reactHooks.configs.flat.recommended,
       reactRefresh.configs.vite,
     ],
