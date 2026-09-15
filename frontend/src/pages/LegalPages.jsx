@@ -1,7 +1,7 @@
 import React from 'react';
 
 const PageWrapper = ({ title, children }) => (
-    <div className="container" style={{ padding: '2rem 1.5rem 4rem', maxWidth: '810px' }}>
+    <div className="container" style={{ padding: '2rem 1.5rem 4rem', maxWidth: '800px' }}>
         <h1 className="heading-1 text-gradient" style={{ marginBottom: '2rem' }}>{title}</h1>
         <div className="glass-panel" style={{ padding: '2rem' }}>
             <div className="body-text" style={{ color: 'var(--text-dark)' }}>
