@@ -8,7 +8,7 @@ const Tools = () => {
         {
             title: 'Fertilizer Calculator',
             description: 'Calculate the exact amount of NPK needed based on your crop and field size.',
-            icon: <Sprout size={30} />
+            icon: <Sprout size={32} />
         },
         {
             title: 'Water Requirement',
