@@ -4,7 +4,7 @@ import { Upload, AlertCircle, CheckCircle2, Loader, Menu, X } from 'lucide-react
 import { motion, AnimatePresence } from 'framer-motion';
 import './Home.css';
 
-const API_URL = 'http://127.0.0.1:5000';
+const API_URL = 'http://127.0.0.1:5100';
 
 const Home = () => {
     const [selectedImage, setSelectedImage] = useState(null);
