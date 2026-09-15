@@ -17,7 +17,7 @@ function App() {
           <Route path="/" element={<Layout />}>
             <Route index element={<Home />} />
             <Route path="history_page" element={<History />} />
-            <Route path="tools" element={<Tools />} />
+            <Route path="tool" element={<Tools />} />
             <Route path="user_guide" element={<UserGuide />} />
 
             <Route path="privacy" element={<Privacy />} />
