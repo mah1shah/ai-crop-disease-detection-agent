@@ -25,7 +25,7 @@ const Navbar = () => {
                 margin: '1rem auto',
                 width: 'calc(100% - 2rem)',
                 maxWidth: '1200px',
-                borderRadius: '16px',
+                borderRadius: '15px',
                 position: 'sticky',
                 top: '1rem'
             }}
