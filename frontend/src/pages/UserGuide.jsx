@@ -8,7 +8,7 @@ const UserGuide = () => {
         {
             title: 'Find the affected leaf',
             description: 'Choose a leaf that clearly shows the disease symptoms for the most accurate diagnosis.',
-            icon: <ZoomIn size={30} />
+            icon: <ZoomIn size={32} />
         },
         {
             title: 'Ensure good lighting',
