@@ -221,14 +221,6 @@ Please review the project's contribution guidelines and code of conduct before c
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
-See [LICENSE](LICENSE) for details.
-
----
-
 <p align="center">
   🌱 <strong>AgriSmart AI — Smarter Crop Health, Better Decisions</strong> 🌱
 </p>
