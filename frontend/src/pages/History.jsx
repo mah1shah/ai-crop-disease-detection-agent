@@ -4,7 +4,7 @@ import { Clock, Loader, AlertCircle } from 'lucide-react';
 import { motion } from 'framer-motion';
 import './History.css';
 
-const API_URL = 'http://127.0.0.1:5100';
+const API_URL = 'http://127.0.0.1:5000';
 
 const History = () => {
     const [history, setHistory] = useState([]);
