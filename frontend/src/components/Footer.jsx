@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import { Leaf, Mail, Heart } from 'lucide-react';
-import './Footer.css';
+import './Footer.cs';
 
 const Footer = () => {
     return (
